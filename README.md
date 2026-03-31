@@ -130,7 +130,7 @@ Shows token at counter → Collects food 🎉
 
 ## 👨‍💻 Built For
 
-Presentation prototype for campus food ordering system.  
+Campus food ordering system.  
 Canteens: **Darshni** & **Oota**
 
 ---
